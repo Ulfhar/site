@@ -1,0 +1,85 @@
+
+body{
+ background-color: #262B35;
+ background-image: url(https://drscdn.500px.org/photo/121863709/q%3D80_m%3D1500/595fea140762b34606939c44b1be8c92) ;
+ background-position: ;
+ background-size: 100%;
+}
+
+#allPage{
+/*	border: 4px double black; */
+	height: 700px;
+	width: 980px;
+/*  background-color: white; */
+	padding: 15px;
+	margin-left: 15%;
+	
+}
+.firstTitle{
+	color: #21393A;
+	font-size: 56px;
+	font-family: Serif, Sans-serif;
+	text-align: center;
+	text-shadow: 1px 1px 2px black, 0 0 1em #C4D5E2;
+	
+}
+.secondTitle{
+	color: #21393A;
+	font-size: 56px;
+	font-family: Serif, Sans-serif;
+	text-align: center;
+	margin-top: -1em;
+	margin-bottom: 5%;
+	text-shadow: 0px 0px 2px black, 0 0 1em #C4D5E2;
+}
+.contBox{
+    display: flex;
+	justify-content: center;
+	width: 400px;
+	height: 40px;
+	padding: 1px;
+	background-color: #C2CED6;
+	opacity: 0.7;
+	box-shadow: 0 0 30px #43556A;
+	border-radius: 30px;
+	color: #252F42;
+	text-align: center;
+	font-size: 32px;
+	align-items: center;
+	margin-top: 1em;
+	margin-left: 28%;
+	cursor: pointer;
+}
+
+
+.closeBtn{
+
+	color: #3C3A4E;
+	margin-left: 95%;
+	margin-top: 1px;
+	font-size: 15px;
+	padding: 1px;
+	text-align: center;
+	cursor: pointer;
+}
+.content{
+	text-align: left;
+	font-size: 24px;
+	width: 980px;
+	height: 400px;
+	background-color: #C8CACA;
+	opacity: 0.7;
+	box-shadow: 0 0 30px #43556A;
+	border-radius: 15px;
+	margin-top: 5%;
+	padding: 15px;
+	
+}
+
+
+
+
+
+
+
+
